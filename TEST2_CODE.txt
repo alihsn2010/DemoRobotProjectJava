@@ -1,0 +1,56 @@
+Robot Demo
+Enter Width Height of Room eg: 5 5
+5 5
+Room Size is x:[5] y:[5] 
+Enter Robot Program Instruction eg: 1 2 N 
+1 1 E
+Enter Robot Moving Direction eg: RFRFFRFRF
+RFLFFLRF
+Command :[R] 
+Old Direction :[EAST] 
+New Direction is :[SOUTH] 
+x is :[1] 
+y is :[1] 
+-------------------------------------
+Command :[F] 
+ New Direction is :[SOUTH] 
+ X is :[1] 
+ Y is :[2] 
+-------------------------------------
+Command :[L] 
+Old Direction :[SOUTH] 
+New Direction is :[EAST] 
+x is :[1] 
+y is :[2] 
+-------------------------------------
+Command :[F] 
+ New Direction is :[EAST] 
+ X is :[2] 
+ Y is :[2] 
+-------------------------------------
+Command :[F] 
+ New Direction is :[EAST] 
+ X is :[3] 
+ Y is :[2] 
+-------------------------------------
+Command :[L] 
+Old Direction :[EAST] 
+New Direction is :[NORTH] 
+x is :[3] 
+y is :[2] 
+-------------------------------------
+Command :[R] 
+Old Direction :[NORTH] 
+New Direction is :[EAST] 
+x is :[3] 
+y is :[2] 
+-------------------------------------
+Command :[F] 
+ New Direction is :[EAST] 
+ X is :[4] 
+ Y is :[2] 
+-------------------------------------
+-------------------------------------
+ Robot Final Destination Result :[4]  [2]  [E] 
+--------------
+End Demo Robot
